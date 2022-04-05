@@ -24,6 +24,8 @@ You need install this following library:
 - clone this repo or download as zip
 - **open command prompt (As Administrator)** then redirect to repo folder
 - run this command : `py main_program.py`
+- start taking screenshot
+- the result card will be in main dir named `res.png`
 
 <hr></hr>
 
